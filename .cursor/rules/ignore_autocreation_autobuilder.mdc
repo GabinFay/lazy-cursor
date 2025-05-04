@@ -1,0 +1,7 @@
+---
+description:
+globs:
+alwaysApply: false
+---
+
+IGNORE THE auto_builder.py, and autocreation, they are not relevant to your app. But you must keep them, and deal with having them in the folder. DONT THINK ABOUT THEM, READ THEM. DONT USE THEM.

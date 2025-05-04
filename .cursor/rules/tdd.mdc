@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: true
+---
+Use environment variables stored in a .env file for secrets.
+Always create a virtual environment called .venv with python -m venv .venv , and then activate it with the alias activate whenever installing packages.
+The project description is always in PRD.md. The user will just say "please proceed to build this app", and you will read this file. 
+The current state of work is in the file status.md describing what we've accomplished and what we have to do next. Same as PRD.md, if the user just say "please proceed to build this app", you will read the status.md file too to know what to do. 
+

@@ -2,4 +2,4 @@ librosa
 numpy
 sounddevice
 scipy
-python-dotenv 
+pynput 
