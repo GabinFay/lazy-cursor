@@ -1,5 +1,7 @@
+keyboard
+pynput
 librosa
 numpy
 sounddevice
 scipy
-pynput 
+python-dotenv 
